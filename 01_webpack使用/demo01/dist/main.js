@@ -1,0 +1,1 @@
+(() => { "use strict"; ({ say() { document.body.insertAdjacentHTML("beforeend", "<h1>你好，webpack!</h1>") } }).say(), console.log("你好！") })();
